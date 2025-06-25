@@ -47,3 +47,8 @@ Utilizes Tailwind CSS for elegant styling.
 Leverages JSONPlaceholder for mock API interactions.
 
 I hope you enjoy exploring the code and seeing the dynamic capabilities in action! 😊
+
+## Screenshots
+<img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/Dynamic%20Quote%20Generator.png" alt="screen">
+
+<img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/DQG.png" alt="screenshot">
